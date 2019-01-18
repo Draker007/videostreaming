@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1094365235462",
+    "firebase_url": "https://videostreaming-25f3a.firebaseio.com",
+    "project_id": "videostreaming-25f3a",
+    "storage_bucket": "videostreaming-25f3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094365235462:android:f08e0a984d554021",
+        "android_client_info": {
+          "package_name": "paramhans.videostreaming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094365235462-9np0cdktg91huiia4ksei3c331i19o92.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "paramhans.videostreaming",
+            "certificate_hash": "1e291e1d322910aaa5fd4dc521343fb2ec388ff9"
+          }
+        },
+        {
+          "client_id": "1094365235462-enuasd9sd5n60p1sfelucdl5p301v2h9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjgu4UGTR0VPkhVijSiOBAe5Mep64PCEQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094365235462-enuasd9sd5n60p1sfelucdl5p301v2h9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
